@@ -103,3 +103,23 @@ We have two types of Avocado available
 * __Random forest Classifier__ has more accuracy than __Logistic regression__ model for this dataset , __accuracy is 0.99__ it may also denote it is overfitting as it even classifies the outliers perfectly.
 * __Random forest classifier__ model predicts the type of Avocado more accurately than __Logistic regression__ model.
 * __Random Forest Regressor__ model predicts the average price more accurately than __Linear regression__ model.
+
+
+### 3. Sales store item forecast
+
+<b>Objective</b><br>
+* Build a model to forecast the sales in store.
+* The data is classified in date/time and the store, item and sales.
+
+### <center>Data
+| COLUMN | DATA TYPES |
+| --- | --- |
+| `DATE`     |   OBJECT |
+| `STORE`    |   INT64 |
+| `ITEM`    |   INT64 |
+| `SALES`    |   INT64 |
+
+<b>Conclusion</b>
+* We have used __Sales 1 : Items 1__ data for forecasting.
+* Used ARIMA model to predict best p, q, d values ie, __ARIMA(6, 0, 1) AIC=601.196__
+* With the help of __ACF__ and __PACF__ plotting monitored in __Autocorrelation graph and Partial Autocorrelation graph at every 7 point__ we can see recurring pattern.
