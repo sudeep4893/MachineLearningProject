@@ -93,9 +93,9 @@ We have two types of Avocado available
 | `REGION`	         |   OBJECT |
 
 <b>Observations</b><br>
-There is a strong co-relation between TotalVolume Vs Small and TotalBags Vs SmallBags.<br>
-We can say weak co-relation between TotalVolume Vs XLarge and TotalBags Vs XLargeBags.<br>
-Large and LargeBags comes in the middle.
+* There is a strong co-relation between TotalVolume Vs Small and TotalBags Vs SmallBags.
+* We can say weak co-relation between TotalVolume Vs XLarge and TotalBags Vs XLargeBags.
+* Large and LargeBags comes in the middle.
 
 
 <b>Conclusion</b><br>
