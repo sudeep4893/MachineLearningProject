@@ -63,7 +63,7 @@ Central_zone = ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD"
 * CA (California) state being the Top ranking in US having highest number of restaurants.TX (Texas) being the second highest in US, both states come under range of 600 - 700 restaurants count.
 * McDonalds being the Top ranking in US having highest number of fast food restaurants, count is 2105. Burger King being the second highest in US, restaurant count is 1154.
 * If we compare 4 Zones in US, South Zone being the Top ranking in US having highest number of fast food restaurants 41.7%. East Zone having 10.8% Fast Food restaurant in US, they are less eating Fast Food people rather than South Zone.
-
+[Notebook](EDA_RestaurantData.ipynb)
 ----------------------------------------------------------------
 
 ### 2. Avocado data price prediction
