@@ -19,13 +19,14 @@ This repository is about different Machine Learning algorithm approaches as per 
 ### 1. Fast Food Restaurants data analysis
 
 <b>Problem Statement</b><br>
-The Fast Food Restaurants dataset we are analyzing and providing Ranking of Top City having Fast Food Restaurants in United States of America
+The Fast Food Restaurants dataset we are analyzing and providing Ranking of Top City having Fast Food Restaurants in United States of America<br>
+
 ![piza.jpg](image/piza.jpg)
 
 <b>Introduction</b><br>
-In the Exploratory Data Analysis we are using Python skills on a structured data set including loading, inspecting, wrangling, exploring, and drawing conclusions from data. The notebook has observations with each step in order to explain thoroughly how to approach the data set. Based on the observation some questions also are answered in the notebook for the reference though not all of them are explored in the analysis.
+In the Exploratory Data Analysis we are using Python skills on a structured data set including loading, inspecting, wrangling, exploring, and drawing conclusions from data. The notebook has observations with each step in order to explain thoroughly how to approach the data set. Based on the observation some questions also are answered in the notebook for the reference though not all of them are explored in the analysis.<br>
 
-![img2.jpg](image/img2.jpg)
+![img2.JPG](image/img2.JPG)
 
 #### <center>Data
 | COLUMN | DATA TYPES |
@@ -54,7 +55,7 @@ West_zone = ["AK", "AZ", "CA", "CO", "HI", "ID", "MT", "NM", "NV", "OR", "UT", "
 South_zone = ["AL", "AR", "DC", "DE", "FL", "GA", "KY", "LA", "MD", "MS", "NC", "OK", "SC", "TN", "TX", "VA", "WV"]<br>
 Central_zone = ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD", "WI"]<br>
 
-![img3.jpg](image/img3.jpg)
+![img1.JPG](image/img1.JPG)
 
 <b>Conclusion</b><br>
 * The Fast Food Restaurant Survey being conducted in US to helps and understand the place where the Fast food is highly consumed. By removing the punctuation on Name column we came to know that Mc Donald's count being the highest.
