@@ -122,6 +122,8 @@ We have two types of Avocado available
 * Build a model to forecast the sales in store.
 * The data is classified in date/time and the store, item and sales.
 
+![newplot%20(1).png](image/newplot%20(1).png)
+
 ### <center>Data
 | COLUMN | DATA TYPES |
 | --- | --- |
@@ -129,6 +131,12 @@ We have two types of Avocado available
 | `STORE`    |   INT64 |
 | `ITEM`    |   INT64 |
 | `SALES`    |   INT64 |
+
+![newplot%20(3).png](image/newplot%20(3).png)
+
+![newplot%20(2).png](image/newplot%20(2).png)
+
+![AUc_RAUC.JPG](image/AUc_RAUC.JPG)
 
 <b>Conclusion</b>
 * We have used __Sales 1 : Items 1__ data for forecasting.
