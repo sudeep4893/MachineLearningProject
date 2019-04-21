@@ -118,6 +118,8 @@ We have two types of Avocado available
 
 ### 3. Sales store item forecast
 
+![store.jpg](image/store.jpg)
+
 <b>Objective</b><br>
 * Build a model to forecast the sales in store.
 * The data is classified in date/time and the store, item and sales.
