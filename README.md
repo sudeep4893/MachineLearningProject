@@ -97,17 +97,17 @@ We have two types of Avocado available
 | `YEAR`            |   INT64 |
 | `REGION`	         |   OBJECT |
 
-<br>
 ![Averageprice1.png](image/Averageprice1.png)
 
 <b>Observations</b><br>
 * There is a strong co-relation between TotalVolume Vs Small and TotalBags Vs SmallBags.
 * We can say weak co-relation between TotalVolume Vs XLarge and TotalBags Vs XLargeBags.
 * Large and LargeBags comes in the middle.
-<br>
+
 ![3.png](image/3.png)
-<br>
+
 ![7.JPG](image/7.JPG)
+
 <b>Conclusion</b><br>
 * Columns like Type of avocado, size and bags have impact on Average Price, __lesser the RMSE value__ accurate the model is, when we consider Small Hass in Small Bags.
 * __Random forest Classifier__ has more accuracy than __Logistic regression__ model for this dataset , __accuracy is 0.99__ it may also denote it is overfitting as it even classifies the outliers perfectly.
