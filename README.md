@@ -64,12 +64,14 @@ Central_zone = ["IA", "IL", "IN", "KS", "MI", "MN", "MO", "ND", "NE", "OH", "SD"
 * McDonalds being the Top ranking in US having highest number of fast food restaurants, count is 2105. Burger King being the second highest in US, restaurant count is 1154.
 * If we compare 4 Zones in US, South Zone being the Top ranking in US having highest number of fast food restaurants 41.7%. East Zone having 10.8% Fast Food restaurant in US, they are less eating Fast Food people rather than South Zone.
 
+----------------------------------------------------------------
 
 ### 2. Avocado data price prediction
 
 <b>Problem Statement</b><br>
-The Avocado dataset we are classifying Organic & Conventional Type and prediting the Average price using Regression model from year 2015, 2016, 2017 and 2018 data.
+The Avocado dataset we are classifying Organic & Conventional Type and prediting the Average price using Regression model from year 2015, 2016, 2017 and 2018 data.  <br>
 
+![avocado.jpg](image/avocado.jpg)
 
 <b>Introduction</b><br>
 The Avocado dataset includes consumption of fruit in different regions of USA from 2015 till 2018 years of data.
@@ -95,18 +97,24 @@ We have two types of Avocado available
 | `YEAR`            |   INT64 |
 | `REGION`	         |   OBJECT |
 
+<br>
+![Averageprice1.png](image/Averageprice1.png)
+
 <b>Observations</b><br>
 * There is a strong co-relation between TotalVolume Vs Small and TotalBags Vs SmallBags.
 * We can say weak co-relation between TotalVolume Vs XLarge and TotalBags Vs XLargeBags.
 * Large and LargeBags comes in the middle.
-
-
+<br>
+![3.png](image/3.png)
+<br>
+![7.JPG](image/7.JPG)
 <b>Conclusion</b><br>
 * Columns like Type of avocado, size and bags have impact on Average Price, __lesser the RMSE value__ accurate the model is, when we consider Small Hass in Small Bags.
 * __Random forest Classifier__ has more accuracy than __Logistic regression__ model for this dataset , __accuracy is 0.99__ it may also denote it is overfitting as it even classifies the outliers perfectly.
 * __Random forest classifier__ model predicts the type of Avocado more accurately than __Logistic regression__ model.
 * __Random Forest Regressor__ model predicts the average price more accurately than __Linear regression__ model.
 
+------------------------------------------------------------------
 
 ### 3. Sales store item forecast
 
