@@ -112,7 +112,9 @@ We have two types of Avocado available
 * Columns like Type of avocado, size and bags have impact on Average Price, __lesser the RMSE value__ accurate the model is, when we consider Small Hass in Small Bags.
 * __Random forest Classifier__ has more accuracy than __Logistic regression__ model for this dataset , __accuracy is 0.99__ it may also denote it is overfitting as it even classifies the outliers perfectly.
 * __Random forest classifier__ model predicts the type of Avocado more accurately than __Logistic regression__ model.
-* __Random Forest Regressor__ model predicts the average price more accurately than __Linear regression__ model.
+* __Random Forest Regressor__ model predicts the average price more accurately than __Linear regression__ model.<br>
+
+[Notebook](AvocadoDataset.ipynb)
 
 ------------------------------------------------------------------
 
@@ -143,4 +145,6 @@ We have two types of Avocado available
 <b>Conclusion</b>
 * We have used __Sales 1 : Items 1__ data for forecasting.
 * Used ARIMA model to predict best p, q, d values ie, __ARIMA(6, 0, 1) AIC=601.196__
-* With the help of __ACF__ and __PACF__ plotting monitored in __Autocorrelation graph and Partial Autocorrelation graph at every 7 point__ we can see recurring pattern.
+* With the help of __ACF__ and __PACF__ plotting monitored in __Autocorrelation graph and Partial Autocorrelation graph at every 7 point__ we can see recurring pattern.<br>
+
+[Notebook](ARIMAmodelProject.ipynb)
