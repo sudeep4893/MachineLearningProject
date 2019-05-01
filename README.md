@@ -157,3 +157,24 @@ We have two types of Avocado available
 
 <b>Objective</b><br>
 The objective is to identify each of a large number of black-and-white rectangular pixel displays as one of the 26 capital letters in the English alphabet.
+
+### <center>Data
+| Columns | Description |
+|--------- | --------------|
+| letter | capital letter (26 values from A to Z) | 
+| x-box | horizontal position of box |
+| y-box | vertical position of box |
+| width | width of box |
+| high | height of box |
+| onpix | total # on pixels |
+| x-bar | mean x of on pixels in box |
+| y-bar | mean y of on pixels in box |
+| x2bar | mean x variance |
+| y2bar | mean y variance |
+| xybar | mean x y correlation | 
+| x2ybr | mean of x * x * y |
+| xy2br | mean of x * y * y |
+| x-ege | mean edge count left to right | 
+| xegvy | correlation of x-ege with y |
+| y-ege | mean edge count bottom to top | 
+| yegvx | correlation of y-ege with x |
