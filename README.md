@@ -153,7 +153,7 @@ We have two types of Avocado available
 
 ### 4. Sales store item forecast
 
-![test.jpg]()
+![LetterRec.JPG](image/LetterRec.JPG)
 
 <b>Objective</b><br>
 The objective is to identify each of a large number of black-and-white rectangular pixel displays as one of the 26 capital letters in the English alphabet.
