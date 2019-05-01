@@ -14,7 +14,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 1. Fast Food Restaurants data analysis
 2. Avocado data price prediction
 3. Sales store item forecast
-
+4. Letter Recognition
 
 ### 1. Fast Food Restaurants data analysis
 
@@ -148,3 +148,12 @@ We have two types of Avocado available
 * With the help of __ACF__ and __PACF__ plotting monitored in __Autocorrelation graph and Partial Autocorrelation graph at every 7 point__ we can see recurring pattern.<br>
 
 [Notebook](ARIMAmodelProject.ipynb)
+
+------------------------------------------------------------------
+
+### 4. Sales store item forecast
+
+![test.jpg]()
+
+<b>Objective</b><br>
+The objective is to identify each of a large number of black-and-white rectangular pixel displays as one of the 26 capital letters in the English alphabet.
