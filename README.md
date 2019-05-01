@@ -151,7 +151,7 @@ We have two types of Avocado available
 
 ------------------------------------------------------------------
 
-### 4. Sales store item forecast
+### 4. Letter Recognition
 
 ![LetterRec.JPG](image/LetterRec.JPG)
 
