@@ -180,7 +180,7 @@ The objective is to identify each of a large number of black-and-white rectangul
 | yegvx | correlation of y-ege with x |
   
 <b>Conclusion</b>
-* We trained our model and predicted the letters with the help of test dataset.
+* Trained the model and predicted the letters with the help of test dataset.
 * __SVC__ provides the maximum accuracy and __Random Forest__ being the second.
 * We have verified the two output file __output_svc__ and __output_rfc__. 
 * Comparing the output file and calculated the difference, __3825__ records predicted correctly from __3999__ when we compare __SVC__ model as reference.<br>
