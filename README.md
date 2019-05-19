@@ -14,7 +14,7 @@ This repository is about different Machine Learning algorithm approaches as per 
 1. Fast Food Restaurants data analysis
 2. Avocado data price prediction
 3. Sales store item forecast
-4. Letter Recognition
+4. Letter Recognition.
 
 ### 1. Fast Food Restaurants data analysis
 
